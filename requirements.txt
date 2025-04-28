@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+torch
+numpy
+pandas
+scikit-learn
+transformers
+sentence-transformers
+umap-learn
+python-multipart
+huggingface-hub
+accelerate
+tokenizers
+huggingface_hub[hf_xet]
