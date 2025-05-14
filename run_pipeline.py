@@ -16,7 +16,7 @@ app = FastAPI()
 genre_path = "genre_list.json"
 genres = gu.load_genres(genre_path)  # ✅ Fix: Use gu.load_genres
 # Load constants
-hf_token = "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"
+hf_token = "Keep HF Token Here"
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Set global seed for reproducibility
