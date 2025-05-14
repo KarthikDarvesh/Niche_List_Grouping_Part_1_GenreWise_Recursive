@@ -12,7 +12,7 @@ import json
 app = FastAPI()
 
 # Load constants
-hf_token = "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"
+hf_token = "Replace with your Hugging Face token"
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 @app.post("/niche_grouping/")
