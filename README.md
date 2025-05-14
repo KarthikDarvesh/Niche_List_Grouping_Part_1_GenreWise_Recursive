@@ -116,7 +116,7 @@ It enables semantic grouping of niches based on contextual similarity, and auto-
 
 ## 🗂️ Project Directory Structure
 
-<img width="613" alt="image" src="https://github.com/user-attachments/assets/56db3cfc-a1a2-42f4-8bdb-21d277b5b5a3" />
+![image](https://github.com/user-attachments/assets/020d21fc-e7f7-40e9-a10f-947052029998)
 
 ---
 
