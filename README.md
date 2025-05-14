@@ -13,7 +13,7 @@ It enables semantic grouping of niches based on contextual similarity, and auto-
 ## 📁 Data
 
 - **Source**:
-  - API Endpoint: https://fkytapi.famekeeda.com/genre_niche_mapped_view
+  - API Endpoint: ----
   - Postgres Database Table: `genre_niche_mapped_view`
 
 - **Fields Available**:
