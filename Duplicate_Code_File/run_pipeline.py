@@ -5,7 +5,7 @@ import torch
 def main():
     # ------------------- Constants -------------------
     json_path = "/home/karthik22/ML_Project/Niche_List_Grouping/niche_list.json"
-    hf_token = "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"  # Replace with your Hugging Face token
+    hf_token = "Replace with your Hugging Face token"  # Replace with your Hugging Face token
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
     # ------------------- Load & Preprocess Niches -------------------
