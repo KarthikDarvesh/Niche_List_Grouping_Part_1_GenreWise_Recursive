@@ -13,7 +13,7 @@ It enables semantic grouping of niches based on contextual similarity, and auto-
 ## 📁 Data
 
 - **Source**:
-  - API Endpoint: ----
+  - API Endpoint: Data is stored in a PostgreSQL database, and I created an API to access that data.
   - Postgres Database Table: `genre_niche_mapped_view`
 
 - **Fields Available**:
